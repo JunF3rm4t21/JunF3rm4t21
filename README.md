@@ -12,7 +12,7 @@ Me especializo en la intersección entre el desarrollo backend tradicional, la p
 
 ### 🚀 ¿Qué estoy haciendo ahora?
 
-* 💻 Trabajando como **Desarrollador Full Stack** para la Iglesia Cristiana Camino de Adoración y Santidad (ICCAS) y la Fundación Camino a la Transformación.
+* 💻 Contribuyo en mis tiempos libres como **Líder Técnico** para la Iglesia Cristiana Camino de Adoración y Santidad (ICCAS) y la Fundación Camino a la Transformación.
 * 🔒 Liderando la modernización tecnológica y la seguridad de la información organizacional, implementando arquitecturas seguras alineadas con la norma ISO/IEC 27001 y la Ley 1581 de protección de datos.
 * 🌱 Explorando de forma constante prácticas de **DevSecOps** e integración de modelos de Inteligencia Artificial para el análisis de datos.
 
