@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="JunF3rm4t Dark Banner" width="100%">
+  <img src="images/banner_v2.png" alt="JunF3rm4t Dark Banner" width="100%">
 </p>
 
 # ¡Hola! Soy Jeronimo Pineda 👋
